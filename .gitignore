@@ -1,0 +1,4 @@
+# 🛑 استثناء ملفات Eclipse
+.settings/
+.classpath
+.project
